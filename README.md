@@ -79,4 +79,4 @@ pnpm --filter unpkg-esm run deploy
 
 ## License
 
-Please see [LICENSE](./LICENSE) for more information.
+Please see [LICENSE](./LICENSE) for more information..
